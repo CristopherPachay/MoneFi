@@ -1,0 +1,4 @@
+.status-dropdown-container {
+  display: flex;
+  justify-content: flex-start;
+}
